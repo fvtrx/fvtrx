@@ -12,17 +12,6 @@ Outside of work & programming, I like to play video games and explore musics.
 
 **Design:** Adobe XD, Figma
 
-
-___
-
-You can find me on:
-
-[![Twitter](https://img.omvr.io/twitter.svg)](https://twitter.com/fvtrx) [![LinkedIn](https://img.omvr.io/linkedin.svg)](https://www.linkedin.com/in/abdullah-fitri-che-wan-a39323165/) [![Instagram](https://img.omvr.io/instagram.svg)](https://www.instagram.com/fvtrx)
-
-### OR
-
-📫 Reach me at my email: ftk2431@gmail.com
-
 <!--
 **fvtrx/fvtrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
