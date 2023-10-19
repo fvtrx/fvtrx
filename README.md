@@ -8,7 +8,19 @@ Outside of work & programming, I like to play video games and explore musics.
 
 
 ### Skills
-**Frontend:** React (CRA + NextJS), React Native, Flutter, HTML5, CSS3, SASS, PostCSS, JavaScript, TypeScript
+**Frontend:** 
+* React (NextJS)
+* HTML5
+* CSS3
+* SASS
+* PostCSS
+* JavaScript
+* TypeScript
+* Tailwind
+* ChakraUI
+* NextUI
+* Redux
+* Redux-saga
 
 **Design:** Adobe XD, Figma
 
