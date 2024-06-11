@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I am **Abdullah Fitri**, a mobile app developer based in Malaysia. 
+I am **Abdullah Fitri**, a front-end developer based in Malaysia. 
 
 Currently focusing on developing mobile apps using React + TypeScript. And during my leisure time, I like to explore NextJS for fun just for the sake to enhance and enrich my coding knowledge on web app development technologies and also write stuffs about IT related things on Twitter and my blog. 
 
