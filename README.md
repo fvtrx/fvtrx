@@ -8,7 +8,8 @@ Outside of work & programming, I like to play video games and explore musics.
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fvtrx&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fvtrx&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
