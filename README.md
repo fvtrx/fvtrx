@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am currently working as a full-time software engineer which specializing in Front-End development at [@DecubeIO](https://github.com/DecubeIO).
 
-I started my career as a software engineer (mobile developer) starting in Sept 2019. As of today, I have already passed my 4th year working as a front-end/mobile developer. Also, a part time vocal/percussionist coach during leisure time.
+I started my career as a software engineer (mobile developer) starting in Sept 2019. As of today, I have already passed my 5th year working as a front-end/mobile developer. Also, a part time vocal/percussionist coach during leisure time.
 
 _P/s: Love to sing by the way_
 
