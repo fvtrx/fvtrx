@@ -13,7 +13,7 @@ _P/s: Love to sing by the way_
 - **Tools:** Git, BitBucket, Jenkins, Jira, Notion, Vercel
 
 ### 🌟 Featured Projects
-- **[Maktabah Ramadan](https://www.maktabah-ramadan.com/)** - All hadiths related to Ramadan month, curated specifically for you in Maktabah Ramadan. Built with Next.js, Zustand, React-Query and TailwindCSS, hosted via Vercel
+- **[Maktabah Ramadan](https://www.maktabah-ramadan.com/)** - All hadiths related to Ramadan, curated specifically for you in Maktabah Ramadan. Built with Next.js, Zustand, React-Query and TailwindCSS, hosted via Vercel
 - **[Quran-Sunnah AI](https://www.quran-sunnah-ai.com/)** - One-stop place for you to understand more on the Quran and Hadith, tailored to your own queries. Built with Next.js and TailwindCSS, hosted via Vercel
 - **[Quran-Manzil](https://www.quran-manzil.com/)** - A front end repository which hosted a list of Manzil's Ayah - A list of ayahs that heals and protects against unwanted things. Built with Next.js and NextUI, hosted via Vercel
 - **[fvtrx.com](https://fvtrx.com)** - My personal portfolio. Built with Next.js and TailwindCSS, hosted via Vercel
