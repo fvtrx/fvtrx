@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdullah Fitri!
+# 👋 Hi, I'm Abdullah Fitri! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front+End+Developer;Mobile+Developer;5%2B+Years+Experience;" alt="Typing SVG" />
@@ -58,10 +58,16 @@ I started my career as a software engineer (mobile developer) in **September 201
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<table>
+<tr>
+<td>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
+</td>
+<td>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
