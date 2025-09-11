@@ -19,7 +19,10 @@ _P/s: Love to sing by the way_
 - **[fvtrx.com](https://fvtrx.com)** - My personal portfolio. Built with Next.js and TailwindCSS, hosted via Vercel
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
+</div>
 
 ### 💼 Work Experience
 ![Screenshot 2024-11-14 at 6 49 03 PM](https://github.com/user-attachments/assets/dd0d889c-3e77-4cea-b84a-3d3e5420b79c)
