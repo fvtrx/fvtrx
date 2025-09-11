@@ -19,7 +19,7 @@ _P/s: Love to sing by the way_
 - **[fvtrx.com](https://fvtrx.com)** - My personal portfolio. Built with Next.js and TailwindCSS, hosted via Vercel
 
 ### 📈 GitHub Stats
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
 </div>
