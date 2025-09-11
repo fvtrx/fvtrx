@@ -58,7 +58,7 @@ I started my career as a software engineer (mobile developer) in **September 201
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
 </div>
