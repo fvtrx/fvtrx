@@ -63,10 +63,6 @@ I started my career as a software engineer (mobile developer) in **September 201
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fvtrx&theme=default&hide_border=true&background=ffffff00" alt="GitHub Streak" />
-</div>
-
 ---
 
 ## 💼 Work Experience
