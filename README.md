@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am currently working as a **full-time software engineer** specializing in **Front-End development** at [**@DecubeIO**](https://github.com/DecubeIO).
+I am currently working as a **full-time software engineer** specializing in **Front-End development** at [**Ryt Bank**](https://rytbank.my).
 
 I started my career as a software engineer (mobile developer) in **September 2019**. As of today, I have **5+ years of experience** working as a front-end/mobile developer. I'm also a **part-time vocal/percussionist coach** during my leisure time.
 
