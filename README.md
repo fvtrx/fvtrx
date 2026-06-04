@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdullah Fitri! 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front+End+Developer;Mobile+Developer;5%2B+Years+Experience;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Front+End+Developer;Mobile+Developer;6%2B+Years+Experience;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -21,6 +21,7 @@ I started my career as a software engineer (mobile developer) in **September 201
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-524520?style=for-the-badge&logo=swift)
 
 ### Frontend & Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -28,6 +29,7 @@ I started my career as a software engineer (mobile developer) in **September 201
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-524520?style=for-the-badge&logo=swift)
 
 ### Styling & UI
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,21 +55,6 @@ I started my career as a software engineer (mobile developer) in **September 201
 | **[💼 fvtrx.com](https://fvtrx.com)** | My personal portfolio website | Next.js, TailwindCSS |
 
 </div>
-
----
-
-## 📈 GitHub Stats
-
-<table>
-<tr>
-<td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvtrx&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&icon_color=333&text_color=777&hide_title=true" />
-</td>
-<td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvtrx&layout=compact&theme=default&hide_border=true&bg_color=ffffff00&title_color=333&text_color=777&hide_title=true" />
-</td>
-</tr>
-</table>
 
 ---
 
